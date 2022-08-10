@@ -1,7 +1,7 @@
 {
-  "name": "projeto-m5-next",
-  "version": "0.1.0",
-  "private": true,
+  "name": "projeto-m5-nextTs",
+  "version": "0.0.1",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -20,5 +20,9 @@
     "eslint": "8.21.0",
     "eslint-config-next": "12.2.4",
     "typescript": "4.7.4"
-  }
+  },
+  "description": "Projeto referente ao módulo 5 da Blue EdTech, feito no framework NextJS",
+  "main": "index.js",
+  "author": "Eugenio \"Neno\" Bufalo Rodrigues",
+  "license": "MIT"
 }
